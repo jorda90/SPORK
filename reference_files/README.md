@@ -33,6 +33,8 @@ In order to create pickle for gene/exon annotation, please run the following com
 # Creating pickle file for gene/exon sequences (gtfs_info_seq)
 
 In order to create pickle for gene/exon sequences, please run the following command:
+    
+    python create_gtf_info_with_seq_new_new.py -gtf /path/to/gtf_file -fa /path/to/fasta_file 
 
 
 # Creating transcriptome file
