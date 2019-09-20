@@ -14,7 +14,7 @@ This repository contains the JSON script written in Common Workflow Language (CW
 
 # SPORK main script
 
-All computational steps including any alignment step required for running SPORK has been packaged in a single JSON file "SPORK_and_KNIFE_pipeline.json". This script can be run on any local cluster using an input JSON file that provides the paths for reference index files and input RNA-seq file. To run the script, Rabix toolkit should be pre-installed on the local cluster
+All computational steps including any alignment step required for running SPORK has been packaged in a single JSON file "KNIFE_and_SPORK_pipeline.json". This script can be run on any local cluster using an input JSON file that provides the paths for reference index files and input RNA-seq file. To run the script, Rabix toolkit should be pre-installed on the local cluster
 
 In addition, if one has KNIFE output files, SPORK could be run with KNIFE outputs as input files. THe workflow for running SPORK using KNIFE outputs 
 has been packaged in a single JSON file "SPORK_pipeline.json". 
