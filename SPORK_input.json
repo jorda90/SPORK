@@ -1,0 +1,634 @@
+{
+    "bowtie_index_archive_genome":[
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38.ensembl89_genome.1.bt2",
+	"metadata": {
+                "reference_genome": "GRCh38.ensembl89_genome"
+            }
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38.ensembl89_genome.2.bt2",
+	"metadata": {
+                "reference_genome": "GRCh38.ensembl89_genome"
+            }
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38.ensembl89_genome.3.bt2",
+	"metadata": {
+                "reference_genome": "GRCh38.ensembl89_genome"
+            }
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38.ensembl89_genome.4.bt2",
+	"metadata": {
+                "reference_genome": "GRCh38.ensembl89_genome"
+            }
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38.ensembl89_genome.rev.1.bt2",
+	"metadata": {
+                "reference_genome": "GRCh38.ensembl89_genome"
+            }
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38.ensembl89_genome.rev.2.bt2",
+	"metadata": {
+                "reference_genome": "GRCh38.ensembl89_genome"
+            }
+    }],
+    
+    "bowtie_index_archive_regular_junctions":[
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_no_ERCC_junctions_reg_no_exon_15_new_condition.1.bt2l",
+	"metadata": {
+                "reference_genome": "GRCh38_no_ERCC_junctions_reg_no_exon_15_new_condition"
+            }
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_no_ERCC_junctions_reg_no_exon_15_new_condition.2.bt2l",
+	"metadata": {
+                "reference_genome": "GRCh38_no_ERCC_junctions_reg_no_exon_15_new_condition"
+            }
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_no_ERCC_junctions_reg_no_exon_15_new_condition.3.bt2l",
+	"metadata": {
+                "reference_genome": "GRCh38_no_ERCC_junctions_reg_no_exon_15_new_condition"
+            }
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_no_ERCC_junctions_reg_no_exon_15_new_condition.4.bt2l",
+	"metadata": {
+                "reference_genome": "GRCh38_no_ERCC_junctions_reg_no_exon_15_new_condition"
+            }
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_no_ERCC_junctions_reg_no_exon_15_new_condition.rev.1.bt2l",
+	"metadata": {
+                "reference_genome": "GRCh38_no_ERCC_junctions_reg_no_exon_15_new_condition"
+            }
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_no_ERCC_junctions_reg_no_exon_15_new_condition.rev.2.bt2l",
+	"metadata": {
+                "reference_genome": "GRCh38_no_ERCC_junctions_reg_no_exon_15_new_condition"
+            }
+    }],
+
+    "bowtie_index_archive_scrambled_junctions":[
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_no_ERCC_junctions_scrambled_no_exon_15_new_condition.1.bt2l",
+	"metadata": {
+                "reference_genome": "GRCh38_no_ERCC_junctions_scrambled_no_exon_15_new_condition"
+            }
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_no_ERCC_junctions_scrambled_no_exon_15_new_condition.2.bt2l",
+	"metadata": {
+                "reference_genome": "GRCh38_no_ERCC_junctions_scrambled_no_exon_15_new_condition"
+            } 
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_no_ERCC_junctions_scrambled_no_exon_15_new_condition.3.bt2l",
+	"metadata": {
+                "reference_genome": "GRCh38_no_ERCC_junctions_scrambled_no_exon_15_new_condition"
+            } 
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_no_ERCC_junctions_scrambled_no_exon_15_new_condition.4.bt2l",
+	"metadata": {
+                "reference_genome": "GRCh38_no_ERCC_junctions_scrambled_no_exon_15_new_condition"
+            } 
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_no_ERCC_junctions_scrambled_no_exon_15_new_condition.rev.1.bt2l",
+	"metadata": {
+                "reference_genome": "GRCh38_no_ERCC_junctions_scrambled_no_exon_15_new_condition"
+            } 
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_no_ERCC_junctions_scrambled_no_exon_15_new_condition.rev.2.bt2l",
+	"metadata": {
+                "reference_genome": "GRCh38_no_ERCC_junctions_scrambled_no_exon_15_new_condition"
+            } 
+    }],
+    
+    "bowtie_index_archive_ribosomal":[
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/grch38_ribosomal.1.bt2",
+	"metadata": {
+                "reference_genome": "grch38_ribosomal"
+            }
+    },
+    {
+     	"class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/grch38_ribosomal.2.bt2",
+	"metadata": {
+                "reference_genome": "grch38_ribosomal"
+            }
+    },
+    {
+     	"class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/grch38_ribosomal.3.bt2",
+	"metadata": {
+                "reference_genome": "grch38_ribosomal"
+            }
+    },
+    {
+     	"class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/grch38_ribosomal.4.bt2",
+	"metadata": {
+                "reference_genome": "grch38_ribosomal"
+            }
+    },
+    {
+     	"class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/grch38_ribosomal.rev.1.bt2",
+	"metadata": {
+                "reference_genome": "grch38_ribosomal"
+            }
+    },
+    {
+     	"class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/grch38_ribosomal.rev.2.bt2",
+	"metadata": {
+                "reference_genome": "grch38_ribosomal"
+            }
+    }],    
+
+    "bowtie_index_archive_regular_indels_1":[
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_1.1.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_1"
+            }
+        },
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_1.2.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_1"
+            }
+        },
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_1.3.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_1"
+            }
+        },
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_1.4.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_1"
+            }
+        },
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_1.rev.1.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_1"
+            }
+        },
+	{
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_1.rev.2.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_1"
+            }
+	}
+    ],
+
+    "bowtie_index_archive_regular_indels_2":[
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_2.1.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_2"
+            }
+	},
+	{
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_2.2.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_2"
+            }
+	},
+        {
+            "class" : "File",
+     	    "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_2.3.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_2"
+            }
+        },
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_2.4.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_2"
+            }
+        },
+        {
+            "class" : "File",
+	    "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_2.rev.1.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_2"
+            }
+        },
+	{
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_2.rev.2.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_2"
+            }
+   	}
+    ],
+    
+    "bowtie_index_archive_regular_indels_3":[
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_3.1.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_3"
+            }
+	},
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_3.2.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_3"
+            }
+	},
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_3.3.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_3"
+            }
+	},
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_3.4.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_3"
+            }
+        },
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_3.rev.1.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_3"
+            }
+        },
+	{
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_3.rev.2.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_3"
+            }
+        }
+    ],
+    "bowtie_index_archive_regular_indels_4":[
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_4.1.bt2l",
+	    "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_4"
+            }
+        },
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_4.2.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_4"
+            }
+        },
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_4.3.bt2l",
+	    "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_4"
+            }
+        },
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_4.4.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_4"
+            }
+        },
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_4.rev.1.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_4"
+            }
+        },
+	{
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_4.rev.2.bt2l",
+     	    "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_4"
+            }
+        }
+    ],
+   
+    "bowtie_index_archive_regular_indels_5":[
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_5.1.bt2l",
+     	    "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_5"
+            }
+        },
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_5.2.bt2l",
+     	    "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_5"
+            }
+        },
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_5.3.bt2l",
+     	    "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_5"
+            }
+        },
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_5.4.bt2l",
+            "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_5"
+            }
+        },
+        {
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_5.rev.1.bt2l",
+ 	        "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_5"
+            }
+        },
+	{
+            "class" : "File",
+            "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_subsampled_reg_indels_5.rev.2.bt2l",
+                "metadata": {
+                "reference_genome": "GRCh38_subsampled_reg_indels_5"
+            }
+        }
+    ],
+
+    "bowtie_index_archive_transcriptome":[
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38.ensembl89.transcripts.1.bt2",
+        "metadata": {
+                "reference_genome": "GRCh38.ensembl89.transcripts"
+            }
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38.ensembl89.transcripts.2.bt2",
+        "metadata": {
+                "reference_genome": "GRCh38.ensembl89.transcripts"
+            }
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38.ensembl89.transcripts.3.bt2",
+        "metadata": {
+                "reference_genome": "GRCh38.ensembl89.transcripts"
+            }
+    },    
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38.ensembl89.transcripts.4.bt2",
+        "metadata": {
+                "reference_genome": "GRCh38.ensembl89.transcripts"
+            }
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38.ensembl89.transcripts.rev.1.bt2",
+        "metadata": {
+                "reference_genome": "GRCh38.ensembl89.transcripts"
+            }
+    },
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38.ensembl89.transcripts.rev.2.bt2",
+        "metadata": {
+                "reference_genome": "GRCh38.ensembl89.transcripts"
+            }
+    }
+    ],
+    
+    "gtfs_info":
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_gtfs_info_duplicates_removed"
+    },
+    
+    "gtfs_info_seq":
+    {
+        "class" : "File",
+        "path": "/home/groups/horence/circularRNApipeline_Cluster/index/GRCh38_gtfs_info_seq_10_new_new_new"
+    },
+    
+    
+    "fastq_files" : [
+        {
+           "class" : "File",
+           "path": "/scratch/PI/horence/jorda/CMLU/KNIFE_ONLY_getUnalignedReads/CMLUConn_SRR3192422/unaligned_CMLUConn_SRR3192422._1.fq",
+           "metadata": {
+               "paired_end" : "1",
+               "sample_id" : "CMLUConn_SRR3192422"
+           }
+        },
+        {
+           "class" : "File",
+           "path": "/scratch/PI/horence/jorda/CMLU/KNIFE_ONLY_getUnalignedReads/CMLUConn_SRR3192422/unaligned_CMLUConn_SRR3192422._2.fq",
+           "metadata": {
+               "paired_end" : "2",
+               "sample_id" : "CMLUConn_SRR3192422"
+           }
+
+        }
+    ],
+    
+   
+    
+    "denovo_reads_1":{
+        
+        "class" : "File",
+        "path": "/scratch/PI/horence/jorda/CMLU/KNIFE_ONLY_getUnalignedReads/CMLUConn_SRR3192422/forDenovoIndex_unaligned__1.fq",
+        "metadata": {
+            "paired_end" : "1",
+           "sample_id" : "CMLUConn_SRR3192422"
+        }
+    },
+    
+    "denovo_reads_2":{
+        
+        "class" : "File",
+        "path": "/scratch/PI/horence/jorda/CMLU/KNIFE_ONLY_getUnalignedReads/CMLUConn_SRR3192422/forDenovoIndex_unaligned__2.fq",
+        "metadata": {
+            "paired_end" : "2",
+            "sample_id" : "CMLUConn_SRR3192422"
+        }
+    },
+    
+    "unaligned_reads_1":{
+        
+        "class" : "File",
+        "path": "/scratch/PI/horence/jorda/CMLU/KNIFE_ONLY_getUnalignedReads/CMLUConn_SRR3192422/unaligned_CMLUConn_SRR3192422._1.fq",
+        "metadata": {
+            "paired_end" : "1",
+            "sample_id" : "CMLUConn_SRR3192422"
+        }
+    },
+    
+    "unalinged_reads_2":{
+        
+        "class" : "File",
+        "path": "/scratch/PI/horence/jorda/CMLU/KNIFE_ONLY_getUnalignedReads/CMLUConn_SRR3192422/unaligned_CMLUConn_SRR3192422._2.fq",
+        "metadata": {
+            "paired_end" : "2",
+            "sample_id" : "CMLUConn_SRR3192422"
+        }
+    },
+    
+    "KNIFE_class_input":{
+        
+        "class" : "File",
+        "path": "/scratch/PI/horence/jorda/CMLU/KNIFE_ONLY_getUnalignedReads/CMLUConn_SRR3192422/CMLUConn_SRR3192422_1__output.txt",
+        "metadata": {
+               "sample_id" : "CMLUConn_SRR3192422"
+        }
+    },
+    
+    "KNIFE_GLM":{
+        
+        "class" : "File",
+        "path": "/scratch/PI/horence/jorda/CMLU/KNIFE_ONLY_getUnalignedReads/CMLUConn_SRR3192422/CMLUConn_SRR3192422_1_linearJuncProbs.txt_cdf",
+        "metadata": {
+               "sample_id" : "CMLUConn_SRR3192422"
+        }
+    },
+    
+    "scrambled_sam":[
+        {
+            "class" : "File",
+            "path": "/scratch/PI/horence/jorda/CMLU/KNIFE_ONLY_getUnalignedReads/CMLUConn_SRR3192422/CMLUConn_SRR3192422_trimmed_R1.fq_scrambled.sam",
+            "metadata": {
+               "paired_end" : "1",
+               "sample_id" : "CMLUConn_SRR3192422"
+            }
+        },
+        {
+            "class" : "File",
+            "path": "/scratch/PI/horence/jorda/CMLU/KNIFE_ONLY_getUnalignedReads/CMLUConn_SRR3192422/CMLUConn_SRR3192422_trimmed_R2.fq_scrambled.sam",
+            "metadata": {
+               "paired_end" : "2",
+               "sample_id" : "CMLUConn_SRR3192422"
+            }
+        }
+    ],
+    
+    "regular_sam":[
+        {
+            "class" : "File",
+            "path": "/scratch/PI/horence/jorda/CMLU/KNIFE_ONLY_getUnalignedReads/CMLUConn_SRR3192422/CMLUConn_SRR3192422_trimmed_R1.fq_regular_sorted.sam",
+            "metadata": {
+               "paired_end" : "1",
+               "sample_id" : "CMLUConn_SRR3192422"
+            }
+        },
+        {
+            "class" : "File",
+            "path": "/scratch/PI/horence/jorda/CMLU/KNIFE_ONLY_getUnalignedReads/CMLUConn_SRR3192422/CMLUConn_SRR3192422_trimmed_R2.fq_regular_sorted.sam",
+            "metadata": {
+               "paired_end" : "2",
+               "sample_id" : "CMLUConn_SRR3192422"
+            }
+        }
+    ],
+    
+    "genome_sam":[
+        {
+            "class" : "File",
+            "path": "/scratch/PI/horence/jorda/CMLU/KNIFE_ONLY_getUnalignedReads/CMLUConn_SRR3192422/CMLUConn_SRR3192422_trimmed_R1.fq_genome_sorted.sam",
+            "metadata": {
+               "paired_end" : "1",
+               "sample_id" : "CMLUConn_SRR3192422"
+            }
+        },
+        {
+            "class" : "File",
+            "path": "/scratch/PI/horence/jorda/CMLU/KNIFE_ONLY_getUnalignedReads/CMLUConn_SRR3192422/CMLUConn_SRR3192422_trimmed_R2.fq_genome_sorted.sam",
+            "metadata": {
+               "paired_end" : "2",
+               "sample_id" : "CMLUConn_SRR3192422"
+           }
+        }
+    ],
+
+    "skip_trimming": true,
+    
+    "collapse_threshold": 10,
+    
+    "group_member_cutoff": 1,
+    
+    "consensus_score_cutoff": 0.1, 
+    
+    "bin_size": 50,
+    
+    "splice_finding_flank": 30,
+    
+    "fusion_max_gap": 0,
+    
+    "at_boundary_cutoff": 1000000,
+    
+    "splice_flank_len": 150,
+    
+    "min_bases_per_col": 1,
+    
+    "flank_len": 30, 
+    
+    "flank_len_end": 25,
+
+    "ambiguous_character_penalty" : 1,
+    
+    "higher_junction_overlap" : 13, 
+    
+    "lower_junction_overlap" : 8,
+    
+    "threshold_junction_overlap" : 70,
+    
+    "number_of_cpus" : 3,
+
+    "number_of_bases" : 25
+    
+}
+
